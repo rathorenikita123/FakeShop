@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Adamina&family=Bebas+Neue&family=Caveat&family=Dancing+Script&family=Gentium+Plus:ital@1&family=Inconsolata:wght@200;300;400&family=Joan&family=Kanit:ital,wght@0,100;0,200;1,100&family=Metal&family=Montserrat&family=Nunito:wght@200&family=Nuosu+SIL&family=PT+Sans&family=Quicksand:wght@300&family=Raleway:ital,wght@0,100;0,400;1,300&family=Roboto:wght@100&family=Tai+Heritage+Pro&display=swap');
+
+.c-container {
+    color: rgba(3, 7, 51, 0.95);
+    font-family: 'Merriweather', serif;
+}
+
+.c-container p{
+    color: rgb(36, 36, 109);
+}
